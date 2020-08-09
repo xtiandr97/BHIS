@@ -35,11 +35,10 @@ A java-based information system that allow you to manage all the barangay hall w
 * Many more.
 
 ### Video Demo
-
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/kBxMjlj95WA/0.jpg)](https://www.youtube.com/watch?v=kBxMjlj95WA"Demo")
+https://www.youtube.com/watch?v=kBxMjlj95WA
 
 ### Download
-
+https://mega.nz/file/JIRUnQSa#HtpXyeIaBSy2skmkF5m-IPS7Geemi9uljrk-GmOV7CE
 ### How to Use
 1. Your operating system must have MySQL Server 5 and JDK 8 installed. 
 2. Restore database by using MySQL WorkBench.
