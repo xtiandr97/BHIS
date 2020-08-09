@@ -36,6 +36,8 @@ A java-based information system that allow you to manage all the barangay hall w
 
 ### Video Demo
 
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/kBxMjlj95WA/0.jpg)](https://www.youtube.com/watch?v=kBxMjlj95WA"Demo")
+
 ### Download
 
 ### How to Use
